@@ -1,0 +1,5 @@
+Public static main void (Strings arg[])
+{
+Systems.out.printin("Print the value");
+for (i=0;i++;i>length)
+}
